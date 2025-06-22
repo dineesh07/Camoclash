@@ -52,9 +52,9 @@ congrats.jpeg
    Run a game:
 
 2. Run a game:
-   
-python level1.py   # For Swing Drop
-python level2.py      # For Jetpack Dash
+python level1.py   # 🌿 Swing Drop
+python level2.py   # 🚀 Jetpack Dash
+
 
 
 
