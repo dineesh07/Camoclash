@@ -51,7 +51,8 @@ congrats.jpeg
    pip install pygame
    Run a game:
 
-2. Run a game:
+2. Run the levels:
+
 python level1.py   # 🌿 Swing Drop
 python level2.py   # 🚀 Jetpack Dash
 
